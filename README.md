@@ -12,7 +12,7 @@ Destroy the bombs, score and survive.
 * Destroy the falling bombs by jumping. 
 * Destroying bombs will give you 10 points.
 * Not jumping will damage you and also destroy the bomb.
-* Jump wisely!
+* Jump wisely and have fun!
 
 ### Controls:
 * W - Jump
